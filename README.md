@@ -7,7 +7,7 @@ Embedded SW Developer @toradex
 ![Castello](https://microhobby.com.br/img/bannerTwitter.png)
 
 ---
-<table>
+<table style="border-style: none">
 <tr>
 <td>
 
@@ -17,18 +17,13 @@ Embedded SW Developer @toradex
 
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=microhobby&show_icons=true&theme=transparent)
-
-</td>
-
-<td>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=microhobby&theme=transparent)
 
 </td>
 
-
 </tr>
 </table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=microhobby&show_icons=true&theme=transparent)
 
 </center>
