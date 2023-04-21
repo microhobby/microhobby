@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi I'm **Matheus Castello**
 
-<!--
-**microhobby/microhobby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded SW Developer @toradex
 
-Here are some ideas to get you started:
+<center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Castello](https://microhobby.com.br/img/bannerTwitter.png)
+
+---
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=microhobby&langs_count=6&layout=compact&theme=transparent)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=microhobby&show_icons=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=microhobby&theme=transparent)
+
+</center>
