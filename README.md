@@ -68,6 +68,6 @@ Projects I'm currently working on:
 
 <div align="center">
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=microhobby&theme=transparent)
+![WakaTime Stats](https://wakatime.com/share/@microhobby/1d8e0133-e586-4326-aaa1-cd8173d1b045.png)
 
 </div>
