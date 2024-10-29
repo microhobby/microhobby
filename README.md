@@ -49,23 +49,6 @@ Projects I'm currently working on:
 
 </br>
 
-<table align="center">
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=microhobby&show_icons=true&theme=transparent)
-
-</td>
-
-<td>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=microhobby&theme=transparent)
-
-</td>
-
-</tr>
-</table>
-
 <div align="center">
 
 ![WakaTime Stats](https://wakatime.com/share/@microhobby/1d8e0133-e586-4326-aaa1-cd8173d1b045.png)
