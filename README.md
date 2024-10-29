@@ -7,10 +7,6 @@ Projects I'm currently working on:
 
 - [Torizon IDE Extension for VS Code](https://labs.toradex.com/projects/torizon-vs-code-v2-apollo-x)
 - [VS Code Torizon Templates](https://github.com/toradex/vscode-torizon-templates)
-- [TorizonCore OS Community](https://labs.toradex.com/projects/raspberry-pi-x86-64-on-torizon)
-
-[![alt](https://docs1.toradex.com/112726-cerfifieduser.png?v=2&h=60)](https://www.torizon.io/)
-[![alt](https://docs1.toradex.com/112727-cerfifieddeveloper.png?v=1&h=60)](https://community.toradex.com/u/matheus.castello/summary)
 
 ## 💩 My Social Media
 
