@@ -1,6 +1,6 @@
 # 💩 Hi I'm **Matheus Castello**
 
-![Castello](https://microhobby.com.br/img/bannerTwitter.png)
+![Castello](/assets/nhj94tr3.bmp)
 
 Embedded software developer working [@Toradex](https://www.toradex.com/)
 Projects I'm currently working on:
