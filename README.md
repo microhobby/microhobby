@@ -55,7 +55,7 @@ Projects I'm currently working on:
 
 <td>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=microhobby&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microhobby&layout=compact)
 
 </td>
 
