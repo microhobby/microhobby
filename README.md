@@ -1,7 +1,5 @@
 # 💩 Hi I'm **Matheus Castello**
 
-![Castello](/assets/nhj94tr3.bmp)
-
 Embedded software developer working [@Toradex](https://www.toradex.com/)
 Projects I'm currently working on:
 
